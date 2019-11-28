@@ -1,4 +1,4 @@
-Tìm hiểu thuật toán: ?, ?
-Thiết kế giao diện: ?
-Randoom ra animals: ?
-Tìm kiếm hình ảnh: ?
+Tìm hiểu thuật toán tính kết quả thắng: Tân, Hưng
+Thiết kế giao diện: Tài
+Randoom ra animals: Thương
+Tìm kiếm hình ảnh: Thiết
